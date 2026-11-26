@@ -1,6 +1,6 @@
 # Indicador Socioeconômico por Setor Censitário
 
-Código em R para construir um indicador socioeconômico por setor censitário de São José do Rio Preto, SP (código IBGE 3549805). O indicador usa variáveis do Censo Demográfico 2022 e Análise de Componentes Principais (PCA).
+Código em R para construir um indicador socioeconômico por setor censitário. O indicador usa variáveis do Censo Demográfico 2022 e Análise de Componentes Principais (PCA).
 
 O indicador resume renda, escolaridade e características dos domicílios em dois componentes interpretáveis (**renda** e **infraestrutura**) e em um **indicador socioeconômico** combinado. Depois, os setores são classificados em quatro níveis socioeconômicos, para mapeamento e análises epidemiológicas espaciais.
 
