@@ -1,0 +1,1 @@
+# Indicador-Socioecon-mico-por-Setor-Censit-rio
