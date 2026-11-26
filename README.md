@@ -4,13 +4,6 @@ Código em R para construir um indicador socioeconômico por setor censitário d
 
 O indicador resume renda, escolaridade e características dos domicílios em dois componentes interpretáveis (**renda** e **infraestrutura**) e em um **indicador socioeconômico** combinado. Depois, os setores são classificados em quatro níveis socioeconômicos, para mapeamento e análises epidemiológicas espaciais.
 
-## Conteúdo do repositório
-
-| Arquivo | Descrição |
-|---|---|
-| `socioeconomic_index_2022.R` | Script completo da análise, comentado em inglês |
-| `indicador_socioeconomico_2022_comentado.R` | A mesma análise, com explicações detalhadas em português |
-
 ## Variáveis
 
 | Variável | Descrição |
